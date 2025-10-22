@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+button{
+  padding: 10px 20px;
+  margin: 20px;
+  border-radius: 15px;
+  border: none;
+}
+
+.inc{
+  background-color: aquamarine;
+}
+.dec{
+  background-color: red;
+}
+.jum5{
+  background-color: blueviolet;
+}
+h1{
+  background-color: gainsboro;
+  width: fit-content;
+  font-size: 80px;
+  border-radius: 5px;
+  padding: 10px 80px;
+  margin: 20px;
+}
